@@ -14,6 +14,7 @@ Im: Chỉ số máy móc thiết bị năm kế hoạch.
 Ik: Chỉ số ca làm việc của thiết bị năm kế hoạch.
 Iw: Chỉ số năng suất lao động (NSLĐ) của công nhân kỹ thuật năm kế hoạch
 
+
 GDP 
 2018: khoảng 310,1 tỷ USD (GDP danh nghĩa), tăng trưởng 7,08%.
 2022: khoảng 408,8 tỷ USD, tăng trưởng 8,02%.
@@ -190,7 +191,8 @@ Tỷ lệ thiếu việc làm = (Số người thiếu việc làm / Dân số h
 Tỷ lệ tham gia LLLĐ (%):
 
 Tỷ lệ tham gia LLLĐ = (Lực lượng lao động / Tổng dân số trong độ tuổi lao động có khả năng lao động) * 100
-Tỷ số phụ thuộc chung: Là tỷ số giữa tổng dân số trẻ em (từ 0 đến 14 tuổi) và tổng dân số cao tuổi (từ 65 tuổi trở lên) so với 100 người trong độ tuổi lao động (từ 15 đến dưới 65 tuổi). Nếu chỉ số này nhỏ hơn 50, quốc gia đó nằm trong thời kỳ cơ cấu dân số vàng.
+Tỷ số phụ thuộc chung: Là tỷ số giữa tổng dân số trẻ em (từ 0 đến 14 tuổi) và tổng dân số cao tuổi (từ 65 tuổi trở lên) so với 100 (SỐ NGƯỜI) người trong độ tuổi lao động (từ 15 đến dưới 65 tuổi).
+Nếu chỉ số này nhỏ hơn 50, quốc gia đó nằm trong thời kỳ cơ cấu dân số vàng.
 5. Quy Định Về Độ Tuổi Lao Động Và Tuổi Nghỉ Hưu
 Theo quy định pháp luật Việt Nam, tuổi nghỉ hưu của người lao động được điều chỉnh tăng dần lộ trình qua các năm:
 Theo Bộ luật Lao động cũ (2012): Nam giới nghỉ hưu khi đủ 60 tuổi, nữ giới nghỉ hưu khi đủ 55 tuổi.
@@ -439,6 +441,8 @@ Nhân tố liên quan đến con người và tổ chức quản lý con ngườ
 Nhân tố liên quan đến Điều kiện tự nhiên: Vị trí địa lý, đặc điểm địa hình, tình hình thời tiết khí hậu, quy mô tài nguyên đất đai, nguồn nước, rừng và khoáng sản.
 
 CHƯƠNG 6: HÌNH THỨC TRẢ LƯƠNG TẬP THỂ VÀ ÔN TẬP TỔNG HỢP
+Tiền lương thực tế = Tiền lương danh nghĩa / Chỉ số giá cả 
+=> Xăng tăng x2 => TLTT GIẢM 1 NỬA
 1. Quy Trình Các Bước Tính Lương Tập Thể
 Khi thực hiện chế độ trả lương tập thể theo sản phẩm cho một tổ/nhóm lao động, doanh nghiệp thường áp dụng hai phương pháp phân chia tiền lương thực lĩnh cho từng thành viên:
 Phương pháp 1: Chia theo hệ số điều chỉnh
